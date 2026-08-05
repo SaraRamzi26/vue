@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Vue Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Frontend Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern frameworks such as Vue or React.",
+      "salary": "$70K - $80K",
+      "location": "Boston, MA",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions.",
+        "contactEmail": "contact@newteksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Frontend Engineer",
+      "type": "Part-Time",
+      "description": "Join a fast-growing startup as a part-time frontend engineer. You will help build and maintain our customer-facing dashboard using Vue.js and Tailwind CSS.",
+      "salary": "$50K - $60K",
+      "location": "Miami, FL",
+      "company": {
+        "name": "Salty Web Studio",
+        "description": "A small design and development studio focused on clean, modern web applications.",
+        "contactEmail": "hello@saltywebstudio.com",
+        "contactPhone": "555-321-4567"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Backend Django Developer",
+      "type": "Full-Time",
+      "description": "We're looking for a Django REST developer to help design and maintain APIs for our fintech platform. Experience with PostgreSQL and REST API design is required.",
+      "salary": "$80K - $90K",
+      "location": "Remote",
+      "company": {
+        "name": "Fintrack Systems",
+        "description": "Fintrack Systems builds financial tracking and reporting tools for small businesses.",
+        "contactEmail": "careers@fintracksystems.com",
+        "contactPhone": "555-222-3344"
+      }
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "type": "Contract",
+      "description": "Contract role for a UI/UX designer to redesign our admin portal. Must be comfortable working closely with frontend developers and translating designs into Bootstrap-based layouts.",
+      "salary": "$40/hr",
+      "location": "New York, NY",
+      "company": {
+        "name": "Bright Path Digital",
+        "description": "Bright Path Digital creates user-centered design systems for enterprise software.",
+        "contactEmail": "jobs@brightpathdigital.com",
+        "contactPhone": "555-777-8899"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Junior Frontend Developer",
+      "type": "Full-Time",
+      "description": "Great opportunity for a junior developer to grow their skills in a supportive team environment. You'll work on real features in our Vue.js customer portal under the guidance of senior engineers.",
+      "salary": "$45K - $55K",
+      "location": "Chicago, IL",
+      "company": {
+        "name": "Northbridge Apps",
+        "description": "Northbridge Apps builds internal tools and customer portals for logistics companies.",
+        "contactEmail": "recruiting@northbridgeapps.com",
+        "contactPhone": "555-444-1122"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "description": "Looking for a full stack developer comfortable working across a Vue frontend and a Django REST backend. You'll help maintain and extend our banking admin dashboard.",
+      "salary": "$75K - $95K",
+      "location": "Remote",
+      "company": {
+        "name": "Clearline Banking Tech",
+        "description": "Clearline Banking Tech provides admin dashboard software for regional financial institutions.",
+        "contactEmail": "team@clearlinebank.tech",
+        "contactPhone": "555-909-1212"
+      }
+    }
+  ]
+}
